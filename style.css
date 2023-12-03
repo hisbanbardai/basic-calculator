@@ -53,7 +53,7 @@ button:hover {
   color: white;
 }
 
-.number, .decimal {
+.number, .decimal, .delete {
   background-color: white;
   color: black;
 }
