@@ -19,9 +19,9 @@ function clearInput(){
   inputEle.value = "";
 }
 
-// function calculateResult() {
-//   inputEle.value = eval(inputEle.value);
-// }
+function calculateResult() {
+  inputEle.value = eval(inputEle.value);
+}
 
 // function deleteValue() {
 //   inputEle.value = inputEle.value.slice(0, inputEle.value.length - 1);
