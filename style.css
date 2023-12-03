@@ -52,3 +52,8 @@ button:hover {
   background-color: rgb(0, 81, 255);
   color: white;
 }
+
+.number, .decimal {
+  background-color: white;
+  color: black;
+}
