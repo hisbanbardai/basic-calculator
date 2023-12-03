@@ -57,3 +57,9 @@ button:hover {
   background-color: white;
   color: black;
 }
+
+.equals {
+  grid-row: span 3;
+  color: white;
+  background-color: rgb(26, 185, 26);
+}
