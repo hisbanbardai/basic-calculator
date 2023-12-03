@@ -15,9 +15,9 @@ buttonsEle.forEach((ele) => {
   })
 });
 
-// function clearInput(){
-//   inputEle.value = "";
-// }
+function clearInput(){
+  inputEle.value = "";
+}
 
 // function calculateResult() {
 //   inputEle.value = eval(inputEle.value);
