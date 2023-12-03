@@ -27,6 +27,6 @@ function deleteValue() {
   inputEle.value = inputEle.value.slice(0, inputEle.value.length - 1);
 }
 
-// function appendValue(buttonValue) {
-//   inputEle.value += buttonValue;
-// }
+function appendValue(buttonValue) {
+  inputEle.value += buttonValue;
+}
