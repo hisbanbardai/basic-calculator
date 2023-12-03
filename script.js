@@ -23,9 +23,9 @@ function calculateResult() {
   inputEle.value = eval(inputEle.value);
 }
 
-// function deleteValue() {
-//   inputEle.value = inputEle.value.slice(0, inputEle.value.length - 1);
-// }
+function deleteValue() {
+  inputEle.value = inputEle.value.slice(0, inputEle.value.length - 1);
+}
 
 // function appendValue(buttonValue) {
 //   inputEle.value += buttonValue;
